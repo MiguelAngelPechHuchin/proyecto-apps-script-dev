@@ -1,6 +1,23 @@
 {
+<<<<<<< HEAD
   "dependencies": {
     "@types/google-apps-script": "^1.0.96",
     "tailwindcss": "^4.0.7"
+=======
+  "name": "proyecto-apps-script_dev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/google-apps-script": "^1.0.96",
+    "tailwindcss": "^4.0.6",
+    "tailwindscss": "^0.3.0"
+>>>>>>> origin/main
   }
 }
